@@ -2,7 +2,7 @@
 # Maintainer: Jat-faan Wong
 # Contributor: Jat-faan Wong, Guoxin "7Ji" Pu, Joshua-Riek 
 
-pkgbase=linux-aarch64-rockchip-bsp6.1-joshua-git
+pkgbase=linux-aarch64-rockchip-bsp5.10-joshua-git
 pkgname=("${pkgbase}"{,-headers})
 pkgver=5.10.160.r1080917.g79633b0f
 pkgrel=1
