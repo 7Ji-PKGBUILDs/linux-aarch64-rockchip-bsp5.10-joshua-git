@@ -12,6 +12,8 @@ pkgbase = linux-aarch64-rockchip-bsp5.10-joshua-git
 	makedepends = bc
 	makedepends = git
 	makedepends = dtc
+	makedepends = pahole
+	makedepends = python
 	options = !strip
 	source = git+https://github.com/Joshua-Riek/linux-rockchip.git#branch=jammy
 	source = localversion.config
