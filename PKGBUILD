@@ -5,7 +5,7 @@
 pkgbase=linux-aarch64-rockchip-bsp5.10-joshua-git
 pkgname=("${pkgbase}"{,-headers})
 pkgver=5.10.160.r1080917.g79633b0f
-pkgrel=1
+pkgrel=2
 arch=('aarch64')
 license=('GPL2')
 url="https://github.com/Joshua-Riek"
